@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Alumni+Sans:ital,wght@1,100&display=swap" rel="stylesheet">
+    <link href="styles/style.css" rel="stylesheet" type="text/css" />
+    <meta charset="utf-8" />
+    <title>Ауф волки</title>
+    <link rel="shortcut icon" href="images/x-icon.ico" type="images/x-icon" />
+  </head>
+  <body>
+    <h1>Ауф волк</h1>
+    <img src="images/lCO4RaqfiZo.jpg" alt="Моё тестовое изображение" />
+    <p>Aуф волки оч крутые</p>
+    
+    <ol>
+      <li>Они знают термод</li>
+      <li>Они ботают мжг</li>
+      <li>Они слушают гачи ремиксы</li>
+    </ol>
+    <p><a href="https://www.youtube.com/watch?v=bOj1EI2f-_0"
+     >Запомните твари</a></p>
+  </body>
+</html>
